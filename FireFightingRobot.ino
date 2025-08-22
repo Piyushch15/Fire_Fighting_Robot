@@ -1,3 +1,4 @@
+// CODE FOR ARDUINO
 #include <Servo.h>
 
 // Flame sensor pins
