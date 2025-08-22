@@ -1,4 +1,4 @@
-# FireFightingRobot 🔥🤖
+# FireFightingRobot 
 
 An **autonomous fire-fighting robot** built using Arduino, 3 flame sensors, a water pump (relay controlled), and a sweeping servo for targeted spraying.
 
