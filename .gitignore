@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Arduino & build
+*.bak
+*.log
+*.tmp
+build/
+*.hex
+
+# PlatformIO (if used later)
+.pio/
